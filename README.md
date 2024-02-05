@@ -18,7 +18,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 Hi, I'm harsh, a frontend developer from India In. Dedicated to being a fullstack engineer.
 
-<a href="#"><img align="right" src="https://64.media.tumblr.com/38742bc37712846b3817b9ebdf203d68/tumblr_nak68qplvo1qz581wo4_500.gifv" width="200 " height="200" /></a>
+<a href="#"><img align="right" src="https://64.media.tumblr.com/38742bc37712846b3817b9ebdf203d68/tumblr_nak68qplvo1qz581wo4_500.gifv" width="200 " height="300" /></a>
 
 ## ✏️ Recent Blog
 
